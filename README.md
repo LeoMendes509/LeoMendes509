@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Read.me</title>
-</head>
-<body>
-    <h1 align="left"> 👋 Hello World !</h1>
+<h1 align="left"> 👋 Hello World !</h1>
 
     <p align=""left>I am a technology enthusiast focused on developing innovative and efficient solutions. Currently, I am studying Software Engineering and continuously improving my skills to become a Full Stack Developer. I have experience in management, leadership, and problem-solving, which I apply to the development of robust and scalable systems.<br><br>My main motivation is to transform complex challenges into effective technological solutions, always striving to enhance my expertise in programming languages, databases, and modern frameworks. I am committed to continuous learning and technical excellence.</p>
 
