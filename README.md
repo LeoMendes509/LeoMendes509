@@ -7,37 +7,50 @@ My main motivation is to transform complex challenges into effective technologic
 ## 🚀 Technologies & Tools:
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+
+## 🖥️ Front-end:    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
     <img width="10" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="50"  alt="typescriptlogo">
     <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="50" alt="nodejslogo">
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="javalogo">
-    <img width="10" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50"  alt="pythonlogo">    
-    <img width="10" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="50" alt="c#logo">
-    <img width="10" />
     <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" height="50"  alt="reactlogo">
-    <img width="10" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="50" alt="angularlogo">
     <img width="10" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" alt="htmllogo">
     <img width="10" />
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="50" alt="csslogo">
     <img width="10" />
+    </div>
+
+<div align="left">
+
+## ⚙️ Back-end:    
+    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="javalogo">
+    <img width="10" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50"  alt="pythonlogo">    
+    <img width="10" />
+    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="50" alt="nodejslogo">
+    <img width="10" />
+    </div>
+    
+<div align="left">
+    
+## 🗄️ Database: 
+<div align="left">
     <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="50" alt="sqllogo">
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysqllogo">
+    <img width="10" />
 </div>
+
+    
+    
 
 ## 🛠 Tools & Version Control:
 
 <div align="left">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" height="50" alt="vscodelogo">
-    <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="50" alt="figma logo">
-    <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="50" alt="canvalogo">
     <img width="10" />
     <img src="https://img.icons8.com/color/512/git.png" height="50" alt="gitlogo">
     <img width="10" />
