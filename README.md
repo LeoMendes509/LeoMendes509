@@ -4,6 +4,19 @@ I am a technology enthusiast focused on developing innovative and efficient solu
 
 My main motivation is to transform complex challenges into effective technological solutions, always striving to enhance my expertise in programming languages, databases, and modern frameworks. I am committed to continuous learning and technical excellence.
 
+## 📫 Contact
+
+<div align="left">
+    <a href="http://www.linkedin.com/in/leonardo-mendes-developer" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" alt="linkedlnlogo">
+    </a>
+    <img width="10" />
+    <a href="mailto:lmrodrigues.dev509@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=pJJmXPomYuPv&format=png&color=000000" height="50" alt="emaillogo">
+    </a>
+</div>
+
+
 ## 🚀 Technologies & Tools:
 
 <div align="left">
@@ -59,29 +72,12 @@ My main motivation is to transform complex challenges into effective technologic
 
 ## 🎯 Skills:
 
-- ✅ Full Stack Development (evolving)
-- ✅ Database and system architecture
-- ✅ Leadership & Management
-- ✅ Problem-solving and analytical thinking
-- ✅ Communication
-- ✅ Adaptability
-- ✅ Teamwork
-- ✅ Creativity
-- ✅ Time Management
-- ✅ Emotional Intelligence
-- ✅ Critical Thinking
-- ✅ Decision Making
+|                             |                             |
+|-----------------------------|-----------------------------|
+| ✅ Full Stack Development (evolving) | ✅ Teamwork |
+| ✅ Database and system architecture  | ✅ Creativity |
+| ✅ Leadership & Management           | ✅ Time Management |
+| ✅ Problem-solving and analytical thinking | ✅ Emotional Intelligence |
+| ✅ Communication                    | ✅ Critical Thinking |
+| ✅ Adaptability                    | ✅ Decision Making |
 
----
-
-## 📫 Contact
-
-<div align="left">
-    <a href="http://www.linkedin.com/in/leonardo-mendes-developer" target="_blank">
-        <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" height="50" alt="linkedlnlogo">
-    </a>
-    <img width="10" />
-    <a href="mailto:lmrodrigues.dev509@gmail.com" target="_blank">
-        <img src="https://thumbs.dreamstime.com/b/%C3%ADcone-do-logotipo-de-email-gmail-e-mail-muito-bonito-cuidadosamente-projetado-225149202.jpg" height="50" alt="emaillogo">
-    </a>
-</div>
