@@ -63,7 +63,9 @@ My main motivation is to transform complex challenges into effective technologic
 ## 🛠 Tools & Version Control:
 
 <div align="left">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" height="50" alt="vscodelogo">
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" height="50" alt="vscodelogo">
+    <img width="10" />
+     <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" height="50" alt="intelliJlogo">
     <img width="10" />
     <img src="https://img.icons8.com/color/512/git.png" height="50" alt="gitlogo">
     <img width="10" />
